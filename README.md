@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mjgolda
-- 👀 I’m interested in .NET, Blazor, ASP.NET Core
+- 👀 I’m interested in Python, .NET, Blazor, ASP.NET Core
 - 🌱 I’m currently learning Blazor and still EE
 - 💞️ I’m looking to collaborate on Blazor
 - 📫 How to reach me mgolda@hotmail.com
